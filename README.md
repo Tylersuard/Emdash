@@ -10,7 +10,7 @@ Emdash is guaranteed to make your original, human writing look 103% more like it
 
 Now teachers, publications, and reviewers will finally give your work the rejection it truly deserves.
 
-Act now! Supplies are limited.
+Act now, while supplies last!
 
 ## Example
 python main.py input.txt output.txt
